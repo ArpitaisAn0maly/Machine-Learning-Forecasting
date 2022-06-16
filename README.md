@@ -8,4 +8,4 @@ Forecasting by Category file does forecasting for each category
 category file does forecasting for each category.
 ![](images/TrendForecast.png)
 ![](images/TrendForecastD.png)
-![](images/TrendForecastComponents.png)
+![](images/TrendForecastComponent.png)
